@@ -14,15 +14,16 @@ h1{
 }
 
 h2{
-    text-align: center;
+        text-align: center;
     color: rgb(0, 0, 0);
-    }
-
-h3{
-    text-align: center;
-    color: rgb(0, 0, 0);
-    opacity: 0.6
-    ;
+    background-color: #fff;
+    border: 2px solid #0074d9;
+    padding: 16px 24px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    display: inline-block;
+    margin: 20px auto;
+    display: flex; justify-content: center;
     }
 
 img{
