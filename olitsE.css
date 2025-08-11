@@ -38,3 +38,13 @@ img{
     gap: 10px; 
     margin: 20px auto;
 }
+
+.buttons1{
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+    margin: 20px auto;
+    button{
+        background-color: rgb(255, 152, 152);
+    }
+}

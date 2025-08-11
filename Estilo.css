@@ -36,4 +36,14 @@ img{
     justify-content: center;
     gap: 10px; 
     margin: 20px auto;
+
+   .Mat{
+       background-color: aquamarine;
+ }
+    .Por{
+       background-color: rgb(255, 97, 97);
+ }  
+  .cie{
+       background-color: rgb(148, 255, 127);
+ }
 }
